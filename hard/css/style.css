@@ -1,0 +1,20 @@
+/*body{
+	background-image: url(mg/bg.jpg);
+}*/
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items:flex-end;
+}
+#cup {
+	position: relative;
+	width: 150px;
+	left: auto;
+}
+button{
+	position: relative;
+	top: 0px
+}
+#mord{	
+	right: 100px;
+}
