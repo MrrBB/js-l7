@@ -1,0 +1,25 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	/*font-family: 'Roboto Mono', monospace;*/
+	margin-top: 300px;
+	text-align: center;
+	background-color: grey;
+	color: white;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+h1{
+	margin-top: 20px;
+	font-size: 80px;
+	margin-bottom: 0;
+}
+#clock{
+	margin-top: 0;
+	font-weight: 300;
+	font-size: 120px;
+}
